@@ -1,0 +1,27 @@
+
+h
+java:S1192G"FDefine a constant instead of duplicating this literal "Arial" 4 times.(—¸ÿÿÿÿÿ8ÄıˆÎö1
+F
+java:S1604Ù"(Make this anonymous inner class a lambda(¼î‹8ÄıˆÎö1
+K
+java:S1604ì"(Make this anonymous inner class a lambda(µ€´£ûÿÿÿÿ8ÄıˆÎö1
+q
+java:S2095à"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ø™€úÿÿÿÿ8ßıˆÎö1
+}
+java:S3923K"[Remove this conditional structure or edit its code blocks so that they're not all the same.(·Øâûÿÿÿÿÿ8çıˆÎö1
+¤
+java:S1186„"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®î’×üÿÿÿÿ8êıˆÎö1
+Ÿ
+java:S1186ˆ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÆĞÂ8êıˆÎö1
+¤
+java:S1186Œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö„˜şúÿÿÿÿ8êıˆÎö1
+¤
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ßçùÿÿÿÿ8êıˆÎö1
+\
+java:S1117t":Rename "jPanel" which hides the field declared at line 16.(¥à‡”ıÿÿÿÿ8ëıˆÎö1
+\
+java:S1117w":Rename "fileId" which hides the field declared at line 19.(ù³µÔÿÿÿÿÿ8ëıˆÎö1
+z
+java:S3252Æ"\Use static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_AS_NEEDED".(ì¹áÀ8òıˆÎö1
+
+java:S3252Ç"^Use static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_AS_NEEDED".(†•‡ÿÿÿÿÿ8òıˆÎö1

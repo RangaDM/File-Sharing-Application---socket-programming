@@ -1,0 +1,19 @@
+
+x
+java:S1192-"VDefine a constant instead of duplicating this literal "Select a file to send" 3 times.(İ±ÉÏüÿÿÿÿ8·úïÌö1
+b
+java:S1192."FDefine a constant instead of duplicating this literal "Arial" 3 times.(õÛÇv8¸úïÌö1
+m	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ôØ‡8¸úïÌö1
+m	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æàúú8¸úïÌö1
+C
+java:S1604F"(Make this anonymous inner class a lambda(ˆéÌ¤ıÿÿÿÿ
+C
+java:S1604S"(Make this anonymous inner class a lambda( »¿¶ûÿÿÿÿ
+c
+java:S2095["MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(®±­Ë
+_
+java:S2095^"DUse try-with-resources or close this "Socket" in a "finally" clause.( –ªôüÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ú§”Ãøÿÿÿÿ
+`
+java:S2674h"JCheck the return value of the "read" call to see how many bytes were read.(Ü®ïÃ
